@@ -596,7 +596,7 @@ const App = () => {
         </div>
       </section>
 
-      {/*about*/}
+   
       <section
         className="bg-[#f0ece9]  h-[fit-content] w-[auto] relative justify-center py-8 "
         id="about"
