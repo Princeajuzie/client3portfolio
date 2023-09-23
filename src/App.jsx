@@ -1,9 +1,7 @@
 import "./App.css";
 import { Link } from "react-router-dom";
 import { BiLogoFacebook } from "react-icons/bi";
-import { BiLogoTwitter } from "react-icons/bi";
 import { BiLogoInstagram } from "react-icons/bi";
-import { BiLogoLinkedin } from "react-icons/bi";
 import { FaTiktok } from "react-icons/fa";
 import { AiFillYoutube } from "react-icons/ai";
 import { styled } from "styled-components";
