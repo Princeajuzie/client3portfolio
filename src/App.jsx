@@ -440,31 +440,14 @@ const App = () => {
                     >
                       <a>About</a>
                     </li>
-                    <li
-                      className=""
-                      onClick={() => {
-                        ScrolltoServices();
-                        handleMenuToggle();
-                      }}
-                    >
-                      <a>Services</a>
-                    </li>
-                    <li
-                      className=""
-                      onClick={() => {
-                        ScrolltoResume();
-                        handleMenuToggle();
-                      }}
-                    >
-                      <a>Resume</a>
-                    </li>
+             
                     <li
                       onClick={() => {
                         scrollToPortfolio();
                         handleMenuToggle();
                       }}
                     >
-                      <a>Portfolio</a>
+                      <a>Gallery</a>
                     </li>
                     <li
                       className=""
@@ -473,7 +456,7 @@ const App = () => {
                         handleMenuToggle();
                       }}
                     >
-                      <a>Blog</a>
+                      <a>Socails</a>
                     </li>
                     <li
                       className="mean-last"
